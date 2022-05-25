@@ -1,6 +1,3 @@
-[submodule "aaroncourt.github.io/find_players"]
-	path = aaroncourt.github.io/find_players
-	url = https://github.com/aaroncourt/Individual-Capstone
 [submodule "find_players"]
 	path = find_players
 	url = https://github.com/aaroncourt/Individual-Capstone
